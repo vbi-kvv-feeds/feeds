@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-01 01:31">
+  <shop>
+    <name>Детоксис</name>
+    <company>Наркологическая клиника Детоксис</company>
+    <url>https://detoxis.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Лечение алкоголизма</category>
+      <category id="2">Консультация нарколога</category>
+      <category id="3">Лечение алкоголизма в стационаре</category>
+      <category id="4">Вывод из запоя в стационаре</category>
+      <category id="5">Детоксикация от алкоголя</category>
+      <category id="6">Кодирование от алкоголизма</category>
+      <category id="7">Лечение женского алкоголизма</category>
+      <category id="8">Капельница при алкогольной интоксикации</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Персональные методики и кураторы. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="2" available="true">
+        <name>Лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно и в стационаре, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="3" available="true">
+        <name>Лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>План лечения после осмотра врача. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="4" available="true">
+        <name>Лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Детокс, капельницы, кодирование. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="5" available="true">
+        <name>Наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Стационар от 9 000 ₽ в сутки. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="6" available="true">
+        <name>Наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Приём нарколога 7 000 ₽, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="7" available="true">
+        <name>Наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Персональные методики и кураторы. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="8" available="true">
+        <name>Наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Амбулаторно и в стационаре, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="9" available="true">
+        <name>Частная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>План лечения после осмотра врача. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="10" available="true">
+        <name>Частная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Детокс, капельницы, кодирование. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="11" available="true">
+        <name>Частная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Стационар от 9 000 ₽ в сутки. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="12" available="true">
+        <name>Частная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём нарколога 7 000 ₽, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="13" available="true">
+        <name>Анонимная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Персональные методики и кураторы. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="14" available="true">
+        <name>Анонимная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно и в стационаре, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="15" available="true">
+        <name>Анонимная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>План лечения после осмотра врача. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="16" available="true">
+        <name>Анонимная наркологическая клиника</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Детокс, капельницы, кодирование. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="17" available="true">
+        <name>Наркологический центр</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Стационар от 9 000 ₽ в сутки. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="18" available="true">
+        <name>Наркологический центр</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Приём нарколога 7 000 ₽, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="19" available="true">
+        <name>Наркологический центр</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Персональные методики и кураторы. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="20" available="true">
+        <name>Наркологический центр</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Амбулаторно и в стационаре, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="21" available="true">
+        <name>Клиника лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>План лечения после осмотра врача. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="22" available="true">
+        <name>Клиника лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Детокс, капельницы, кодирование. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="23" available="true">
+        <name>Клиника лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Стационар от 9 000 ₽ в сутки. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="24" available="true">
+        <name>Клиника лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём нарколога 7 000 ₽, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="25" available="true">
+        <name>Центр лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Персональные методики и кураторы. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="26" available="true">
+        <name>Центр лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно и в стационаре, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="27" available="true">
+        <name>Центр лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>План лечения после осмотра врача. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="28" available="true">
+        <name>Центр лечения алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Детокс, капельницы, кодирование. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="29" available="true">
+        <name>Анонимное лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Стационар от 9 000 ₽ в сутки. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="30" available="true">
+        <name>Анонимное лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Приём нарколога 7 000 ₽, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="31" available="true">
+        <name>Анонимное лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Персональные методики и кураторы. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="32" available="true">
+        <name>Анонимное лечение алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Амбулаторно и в стационаре, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="33" available="true">
+        <name>Наркологическая помощь</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>План лечения после осмотра врача. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="34" available="true">
+        <name>Наркологическая помощь</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Детокс, капельницы, кодирование. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="35" available="true">
+        <name>Наркологическая помощь</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Стационар от 9 000 ₽ в сутки. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="36" available="true">
+        <name>Наркологическая помощь</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma/</url>
+        <categoryId>1</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём нарколога 7 000 ₽, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="37" available="true">
+        <name>Консультация нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Осмотр и план лечения, анонимно. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="38" available="true">
+        <name>Консультация нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Первичный приём 7 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="39" available="true">
+        <name>Консультация нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Разберём ситуацию и план лечения. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="40" available="true">
+        <name>Консультация нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём без направления, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="41" available="true">
+        <name>Приём нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Осмотр и план лечения, анонимно. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="42" available="true">
+        <name>Приём нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Первичный приём 7 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="43" available="true">
+        <name>Приём нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Разберём ситуацию и план лечения. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="44" available="true">
+        <name>Приём нарколога</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём без направления, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="45" available="true">
+        <name>Врач-нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Осмотр и план лечения, анонимно. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="46" available="true">
+        <name>Врач-нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Первичный приём 7 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="47" available="true">
+        <name>Врач-нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Разберём ситуацию и план лечения. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="48" available="true">
+        <name>Врач-нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём без направления, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="49" available="true">
+        <name>Нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Осмотр и план лечения, анонимно. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="50" available="true">
+        <name>Нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Первичный приём 7 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="51" available="true">
+        <name>Нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Разберём ситуацию и план лечения. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="52" available="true">
+        <name>Нарколог</name>
+        <url>https://detoxis.ru/konsultaciya-narkologa/</url>
+        <categoryId>2</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Приём без направления, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Консультация нарколога</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="53" available="true">
+        <name>Лечение алкоголизма в стационаре</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Лечение и питание в стоимости палаты. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="54" available="true">
+        <name>Лечение алкоголизма в стационаре</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/013/lrq1wv7dgcxmc8smpl2yur6ghkh3zmp5.jpg</picture>
+        <description>Палаты от 9 000 ₽ в сутки, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="55" available="true">
+        <name>Лечение алкоголизма в стационаре</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/013/lrq1wv7dgcxmc8smpl2yur6ghkh3zmp5.jpg</picture>
+        <description>Наблюдение врачей круглосуточно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="56" available="true">
+        <name>Лечение алкоголизма в стационаре</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Палаты на 1-5 мест и VIP. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="57" available="true">
+        <name>Наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Лечение и питание в стоимости палаты. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="58" available="true">
+        <name>Наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/013/lrq1wv7dgcxmc8smpl2yur6ghkh3zmp5.jpg</picture>
+        <description>Палаты от 9 000 ₽ в сутки, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="59" available="true">
+        <name>Наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/013/lrq1wv7dgcxmc8smpl2yur6ghkh3zmp5.jpg</picture>
+        <description>Наблюдение врачей круглосуточно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="60" available="true">
+        <name>Наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Палаты на 1-5 мест и VIP. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="61" available="true">
+        <name>Платный наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Лечение и питание в стоимости палаты. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="62" available="true">
+        <name>Платный наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/013/lrq1wv7dgcxmc8smpl2yur6ghkh3zmp5.jpg</picture>
+        <description>Палаты от 9 000 ₽ в сутки, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="63" available="true">
+        <name>Платный наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/013/lrq1wv7dgcxmc8smpl2yur6ghkh3zmp5.jpg</picture>
+        <description>Наблюдение врачей круглосуточно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="64" available="true">
+        <name>Платный наркологический стационар</name>
+        <url>https://detoxis.ru/lechenie-alkogolizma-v-stacionare/</url>
+        <categoryId>3</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Палаты на 1-5 мест и VIP. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение алкоголизма в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="65" available="true">
+        <name>Вывод из запоя в стационаре</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Капельницы и наблюдение врача 24/7. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="66" available="true">
+        <name>Вывод из запоя в стационаре</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Госпитализация 24/7, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="67" available="true">
+        <name>Вывод из запоя в стационаре</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Палата от 9 000 ₽ в сутки с питанием. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="68" available="true">
+        <name>Вывод из запоя в стационаре</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Капельница в клинике, 5 000 ₽. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="69" available="true">
+        <name>Вывод из запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>В стационаре, под контролем врача. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="70" available="true">
+        <name>Вывод из запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Капельницы и наблюдение врача 24/7. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="71" available="true">
+        <name>Вывод из запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Госпитализация 24/7, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="72" available="true">
+        <name>Вывод из запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Палата от 9 000 ₽ в сутки с питанием. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="73" available="true">
+        <name>Капельница от запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Капельница в клинике, 5 000 ₽. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="74" available="true">
+        <name>Капельница от запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>В стационаре, под контролем врача. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="75" available="true">
+        <name>Капельница от запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Капельницы и наблюдение врача 24/7. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="76" available="true">
+        <name>Капельница от запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Госпитализация 24/7, анонимно. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="77" available="true">
+        <name>Капельница после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Палата от 9 000 ₽ в сутки с питанием. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="78" available="true">
+        <name>Капельница после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Капельница в клинике, 5 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="79" available="true">
+        <name>Капельница после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>В стационаре, под контролем врача. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="80" available="true">
+        <name>Капельница после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Капельницы и наблюдение врача 24/7. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="81" available="true">
+        <name>Прокапаться после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Госпитализация 24/7, анонимно. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="82" available="true">
+        <name>Прокапаться после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Палата от 9 000 ₽ в сутки с питанием. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="83" available="true">
+        <name>Прокапаться после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Капельница в клинике, 5 000 ₽. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="84" available="true">
+        <name>Прокапаться после запоя</name>
+        <url>https://detoxis.ru/vyvod-iz-zapoya-v-stacionare/</url>
+        <categoryId>4</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>В стационаре, под контролем врача. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Вывод из запоя в стационаре</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>стационар</custom_label_4>
+      </offer>
+      <offer id="85" available="true">
+        <name>Детоксикация от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищение организма капельницами. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="86" available="true">
+        <name>Детоксикация от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно или в стационаре. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="87" available="true">
+        <name>Детоксикация от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Амбулаторно от 6 000 ₽, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="88" available="true">
+        <name>Детоксикация от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав капельницы подберёт нарколог. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="89" available="true">
+        <name>Детокс от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищение организма капельницами. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="90" available="true">
+        <name>Детокс от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно или в стационаре. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="91" available="true">
+        <name>Детокс от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Амбулаторно от 6 000 ₽, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="92" available="true">
+        <name>Детокс от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав капельницы подберёт нарколог. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="93" available="true">
+        <name>Алкодетокс</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищение организма капельницами. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="94" available="true">
+        <name>Алкодетокс</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно или в стационаре. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="95" available="true">
+        <name>Алкодетокс</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Амбулаторно от 6 000 ₽, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="96" available="true">
+        <name>Алкодетокс</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав капельницы подберёт нарколог. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="97" available="true">
+        <name>Прокапаться от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищение организма капельницами. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="98" available="true">
+        <name>Прокапаться от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Амбулаторно или в стационаре. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="99" available="true">
+        <name>Прокапаться от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Амбулаторно от 6 000 ₽, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="100" available="true">
+        <name>Прокапаться от алкоголя</name>
+        <url>https://detoxis.ru/detoksikaciya-ot-alkogolya/</url>
+        <categoryId>5</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав капельницы подберёт нарколог. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Детоксикация от алкоголя</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно и стационар</custom_label_4>
+      </offer>
+      <offer id="101" available="true">
+        <name>Кодирование от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Препарат, гипноз или имплант. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="102" available="true">
+        <name>Кодирование от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Метод выберет нарколог. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="103" available="true">
+        <name>Кодирование от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>С обследованием и ЭКГ, 12 000 ₽. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="104" available="true">
+        <name>Кодирование от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Анонимно, после осмотра нарколога. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="105" available="true">
+        <name>Кодировка от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Введение препарата от 8 000 ₽. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="106" available="true">
+        <name>Кодировка от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Препарат, гипноз или имплант. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="107" available="true">
+        <name>Кодировка от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Метод выберет нарколог. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="108" available="true">
+        <name>Кодировка от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>С обследованием и ЭКГ, 12 000 ₽. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="109" available="true">
+        <name>Закодироваться от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Анонимно, после осмотра нарколога. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="110" available="true">
+        <name>Закодироваться от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Введение препарата от 8 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="111" available="true">
+        <name>Закодироваться от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Препарат, гипноз или имплант. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="112" available="true">
+        <name>Закодироваться от алкоголя</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Метод выберет нарколог. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="113" available="true">
+        <name>Клиника кодирования от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>С обследованием и ЭКГ, 12 000 ₽. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="114" available="true">
+        <name>Клиника кодирования от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Анонимно, после осмотра нарколога. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="115" available="true">
+        <name>Клиника кодирования от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Введение препарата от 8 000 ₽. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="116" available="true">
+        <name>Клиника кодирования от алкоголизма</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Препарат, гипноз или имплант. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="117" available="true">
+        <name>Кодирование от алкоголизма гипнозом</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Метод выберет нарколог. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="118" available="true">
+        <name>Кодирование от алкоголизма гипнозом</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>С обследованием и ЭКГ, 12 000 ₽. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="119" available="true">
+        <name>Кодирование от алкоголизма гипнозом</name>
+        <url>https://detoxis.ru/kodirovka-ot-alkogolya/</url>
+        <categoryId>6</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/ebc/91uw5d628blr76nyq2kslfc045w1xvt3.jpg</picture>
+        <description>Анонимно, после осмотра нарколога. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Кодирование от алкоголизма</custom_label_1>
+        <custom_label_2>A</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>амбулаторно</custom_label_4>
+      </offer>
+      <offer id="120" available="true">
+        <name>Лечение женского алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-zhenskogo-alkogolizma/</url>
+        <categoryId>7</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>С учётом гормонального фона. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение женского алкоголизма</custom_label_1>
+        <custom_label_2>C</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>женщины</custom_label_4>
+      </offer>
+      <offer id="121" available="true">
+        <name>Лечение женского алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-zhenskogo-alkogolizma/</url>
+        <categoryId>7</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Контроль состояния 24/7, анонимно. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение женского алкоголизма</custom_label_1>
+        <custom_label_2>C</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>женщины</custom_label_4>
+      </offer>
+      <offer id="122" available="true">
+        <name>Лечение женского алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-zhenskogo-alkogolizma/</url>
+        <categoryId>7</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Детокс, кодирование, поддержка. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение женского алкоголизма</custom_label_1>
+        <custom_label_2>C</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>женщины</custom_label_4>
+      </offer>
+      <offer id="123" available="true">
+        <name>Лечение женского алкоголизма</name>
+        <url>https://detoxis.ru/lechenie-zhenskogo-alkogolizma/</url>
+        <categoryId>7</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Анонимно, без огласки. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>алкоголизм</custom_label_0>
+        <custom_label_1>Лечение женского алкоголизма</custom_label_1>
+        <custom_label_2>C</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>женщины</custom_label_4>
+      </offer>
+      <offer id="124" available="true">
+        <name>Капельница при интоксикации</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищающий состав, ставим в клинике. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="125" available="true">
+        <name>Капельница при интоксикации</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Снимем симптомы отравления алкоголем. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="126" available="true">
+        <name>Капельница при интоксикации</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Под контролем врача, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="127" available="true">
+        <name>Капельница при интоксикации</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав подберёт нарколог, 5 000 ₽. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="128" available="true">
+        <name>Капельница от похмелья</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищающий состав, ставим в клинике. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="129" available="true">
+        <name>Капельница от похмелья</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Снимем симптомы отравления алкоголем. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="130" available="true">
+        <name>Капельница от похмелья</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Под контролем врача, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="131" available="true">
+        <name>Капельница от похмелья</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав подберёт нарколог, 5 000 ₽. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="132" available="true">
+        <name>Капельница от алкоголя</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Очищающий состав, ставим в клинике. Рядом с вами: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>рядом</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="133" available="true">
+        <name>Капельница от алкоголя</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/12e/3v07ughemo98co6l1zhvwim1m1bghibg.jpg</picture>
+        <description>Снимем симптомы отравления алкоголем. У м. Академическая: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>м. Академическая</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="134" available="true">
+        <name>Капельница от алкоголя</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/medialibrary/55c/uswed3va94h3eq0q8hn5wvp7g0fuzbn0.jpg</picture>
+        <description>Под контролем врача, анонимно. Рядом с м. Профсоюзная: ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>Профсоюзная</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+      <offer id="135" available="true">
+        <name>Капельница от алкоголя</name>
+        <url>https://detoxis.ru/kapelnica-pri-alkogolnoj-intoksikacii/</url>
+        <categoryId>8</categoryId>
+        <picture>https://detoxis.ru/upload/iblock/886/si3wavexp1fufrkfsgc8tsp29hf1qwx2.png</picture>
+        <description>Состав подберёт нарколог, 5 000 ₽. Москва, ул. Кржижановского, 15к7.</description>
+        <custom_label_0>капельницы</custom_label_0>
+        <custom_label_1>Капельница при алкогольной интоксикации</custom_label_1>
+        <custom_label_2>B</custom_label_2>
+        <custom_label_3>ул. Кржижановского</custom_label_3>
+        <custom_label_4>в клинике</custom_label_4>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

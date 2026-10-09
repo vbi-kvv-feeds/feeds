@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-09 15:33">
+<yml_catalog date="2026-10-09 15:41">
  <shop>
   <name>Центр хирургии СМ-Клиника</name>
   <company>ООО «ГК СМ-Клиника»</company>
@@ -62,6 +62,7 @@
    <category id="54" parentId="6">Оперативная урология</category>
    <category id="55" parentId="1">Оперативная флебология</category>
    <category id="56" parentId="2">Оперативная флебология</category>
+   <category id="57">Общее</category>
   </categories>
   <offers>
    <offer id="1" available="true">
@@ -15294,6 +15295,15 @@
     <description>В нашем Центре проводятся операции по направлению стационарной хирургии. Опытные врачи, современное оборудование, доступные цены в Москве на стационарные операции.</description>
     <param name="Тип">Операции</param>
     <param name="Направление">общие</param>
+   </offer>
+   <offer id="1368" available="true">
+    <name>Центр Хирургии «СМ-Клиника»</name>
+    <vendor>Центр хирургии «СМ-Клиника»</vendor>
+    <url>https://centr-hirurgii.ru/</url>
+    <picture>https://centr-hirurgii.ru/upload/main.png</picture>
+    <categoryId>57</categoryId>
+    <description>В клиническом центре хирургии проводятся высокотехнологичные операции по всем направлениям общей хирургии в Москве. Консультации лучших хирургов – запись по телефону. Круглосуточная платная хирургия в отделениях Центра хирургии «СМ-Клиника».</description>
+    <param name="Тип">Общее</param>
    </offer>
   </offers>
   <collections>
